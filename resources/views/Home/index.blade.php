@@ -8,7 +8,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="caption">
-                        <h2>Mobile Health and Safety</h2>
+                        <h2>Mobile Healths and Safety</h2>
                         <hr>
                         <p>The premier <strong>locally owned and operated</strong> provider of Workplace Health and Safety Services in the Queenstown Lakes and Central Otago region.
                             <br><br>
@@ -31,7 +31,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="section-heading">
-                        <h2>First Aid Courses Available</h2>
+                        <h2>First Aid Course Available</h2>
                         <hr>
                     </div>
                 </div>
