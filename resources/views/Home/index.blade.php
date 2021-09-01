@@ -31,7 +31,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="section-heading">
-                        <h2>First Aid Courses Available</h2>
+                        <h2>First Aid Course Available</h2>
                         <hr>
                     </div>
                 </div>
