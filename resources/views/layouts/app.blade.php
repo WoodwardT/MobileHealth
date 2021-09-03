@@ -46,8 +46,9 @@
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
           rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 
-    <link rel="icon" href="/images/MobileHealthTabLogo.png" type="image/MobileHealthTabLogo.png">
+{{--    <link rel="icon" href="/images/MobileHealthTabLogo.png" type="image/MobileHealthTabLogo.png">--}}
 
     <title>Mobile Health</title>
 
@@ -66,35 +67,46 @@
 
 {{--Navbar--}}
 
-    <div class="navbar">
-        <a class="logoImage" href="/">
-            <img class="logoImage" id="logoImage" src="/images/MobileHealth1.png" alt="logo" width="120px">
-        </a>
-        <ul class="nav">
-                        <div class="collapse navbar-collapse" id="navbarResponsive">
-                            <ul class="navbar-nav ml-auto">
-                                <li class="nav-item active">
-                                    <a class="nav-link" href="/">Home</a>
-                                </li>
-                                <li class="nav-item active">
-                                    <a class="nav-link" href="/courses">Courses</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="/book">Bookings</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="/about">About Us</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="/contact">Contact Us</a>
-                                </li>
-                            </ul>
-                        </div>
-            <form id="logout-form" class="nav" action="{{ route('logout') }}" method="POST" style="display: none;">
-            </form>
-            </li>
-        </ul>
+<header>
+    <!--Navbar -->
+    <div class="bk">
+    <div class="container">
+    <nav class="mb-1 navbar navbar-expand-lg navbar-dark default-color">
+        <a class="navbar-brand nav-img" href="index.html"><img src="/images/MobileHealth1.png" alt="Mobile Health Logo" height="70px"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-333"
+                aria-controls="navbarSupportedContent-333" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent-333">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/courses">Courses</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/book">Book</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/aboutus">About Us</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/contactus">Contact Us</a>
+                </li>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+                        aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </ul>
+        </div>
+    </nav>
     </div>
+    </div>
+    <!--/.Navbar -->
+    {{--
+</header>
+
 
 
 
