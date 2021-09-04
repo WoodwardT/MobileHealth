@@ -1,6 +1,7 @@
 body {
     /*	font-family: 'Poppins', sans-serif;*/
-    font-family: 'Noto Sans', sans-serif;
+/*    font-family: 'Noto Sans', sans-serif;*/
+    font-family: 'Inter', sans-serif;
     transition: all 0.5s;
 }
 p {
