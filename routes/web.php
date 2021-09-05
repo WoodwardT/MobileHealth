@@ -16,8 +16,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {return view('home.index');});
 Route::get('/courses', function () {return view('home.courses');});
 Route::get('/book', function () {return view('home.book');});
-Route::get('/about', function () {return view('home.about');});
-Route::get('/contact', function () {return view('home.contact');});
+Route::get('/aboutus', function () {return view('home.aboutus');});
+Route::get('/contactus', function () {return view('home.contactus');});
 
 //Route::get('/AboutUs', 'App\Http\Controllers\ActivityController@AboutUs');
 
