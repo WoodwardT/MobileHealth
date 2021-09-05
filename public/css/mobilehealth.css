@@ -6,7 +6,7 @@ body {
 }
 p {
     margin-bottom: 0px;
-    font-size: 14px;
+    font-size: 16px;
     color: #4a4a4a;
     line-height: 24px;
 }
@@ -23,7 +23,7 @@ a {
 .main-button a {
     background-color: #0c46ab;
     border-radius: 5px;
-    padding: 7px 15px;
+    padding: 10px 15px;
     display: inline-block;
     color: #fff;
     font-size: 14px;
@@ -40,7 +40,7 @@ a {
 .secondary-button a {
     background-color: #0c46ab;
     border-radius: 5px;
-    padding: 10px 15px;
+    padding: 7px 15px;
     display: inline-block;
     color: #fff;
     font-size: 14px;
@@ -82,7 +82,7 @@ a {
 
 /* Header Style */
 .navbar {
-   position: static;
+    position: relative;
     margin-bottom: 0px;
     /*padding: 0px;*/
     /*color: white;*/
@@ -94,10 +94,10 @@ a {
 
 .navbar .navbar-brand {
     text-align: left;
-    width: 100%;
+/*    width: 100%;*/
     position: relative;
     padding: 0px 0px;
-    width: 150px;
+    width:150px;
 }
 .bg-dark {
     background-color: #fff!important;
@@ -115,7 +115,7 @@ a {
     margin: 0px 5px;
 }
 .navbar-dark .navbar-nav .nav-link {
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 400;
     /*color: #1e1e1e;*/
     color: white;
@@ -202,7 +202,7 @@ a {
     width: 100%;
 }
 .course-item h4 {
-    font-size: 20px;
+    font-size: 24px;
     font-weight: 600;
     color: #1e1e1e;
     margin-top: 15px;
@@ -310,6 +310,7 @@ a {
 
 .footer p {
     font-size: 10px;
+    line-height: 18px;
 }
 .footer a {
     font-size: 10px;
