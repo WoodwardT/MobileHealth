@@ -40,45 +40,65 @@
                 <div class="course-container course-theme">
                     <div class="course-container-box">
                         <div class="course-item">
+                            <a href="/courses#1">
                             <img src="images/course_02.jpg" alt="Course 1">
                             <h4>First Aid Course</h4>
                             <h6>$155 inc GST</h6>
+                            </a>
                             <br>
                             <p>This basic first aid course provides students with opportunities to learn
                                 first aid skills and further develop existing skills so that they can provide
-                                basic first aid treatment until more advanced help arrives at the scene.</p>
+                                basic first aid treatment until more advanced help arrives at the scene.
+                            </p>
+                            <div class="secondary-button">
+                                <a href="/book">Book course</a>
+                            </div>
                         </div>
                     </div>
                     <div class="course-container-box">
                         <div class="course-item">
+                            <a href="/courses#2">
                             <img src="images/course_04.jpg" alt="Course 2">
                             <h4>First Aid Refresher</h4>
                             <h6>$129 inc GST</h6>
+                            </a>
                             <br>
                             <p>This first aid course can be used as a refresher for those with a current
                                 FA certificate (2 years 3 months) to be sighted by our instructor prior to any
-                                training.</p>
+                                training.
+                            </p>
+                            <div class="secondary-button">
+                                <a href="/book">Book course</a>
+                            </div>
                         </div>
                     </div>
                     <div class="course-container-box">
                         <div class="course-item">
+                            <a href="/courses#3">
                             <img src="images/course_02.jpg" alt="Course 3">
                             <h4>Managing Emergency Situation</h4>
                             <h6>$ TBC</h6>
+                            </a>
                             <br>
                             <p>Students who have achieved the standard in this unit can perform first aid in an
                                 emergency.
                                 This course aims to guide and motivate students to provide immediate first aid in
                                 emergency situations.
                                 Throughout the 12-hour course, students receive high standards of patient care
-                                training.</p>
+                                training.
+                            </p>
+                            <div class="secondary-button">
+                                <a href="/book">Book course</a>
+                            </div>
                         </div>
                     </div>
                     <div class="course-container-box">
                         <div class="course-item">
+                            <a href="/courses#4">
                             <img src="images/course_04.jpg" alt="Course 4">
                             <h4>Provide Life Support</h4>
                             <h6>$ TBC</h6>
+                            </a>
                             <br>
                             <p>Individuals who meet the standards of this unit can provide basic cardiopulmonary
                                 resuscitation (CPR).
@@ -86,7 +106,11 @@
                                 prevent breathing
                                 or circulatory stop or failure; or support the victim to relieve airway obstruction; or
                                 support the
-                                patient’s breathing and circulation through cardiopulmonary resuscitation (CPR).</p>
+                                patient’s breathing and circulation through cardiopulmonary resuscitation (CPR).
+                            </p>
+                            <div class="secondary-button">
+                                <a href="/book">Book course</a>
+                            </div>
                         </div>
                     </div>
                 </div>
