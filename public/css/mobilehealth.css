@@ -195,6 +195,7 @@ a {
     border: 1px solid rgba(0,0,0,.17);
     padding: 20px;
     transition: all 0.5s;
+    margin-bottom: 10px;
 }
 .course-item:hover {
     opacity: 0.9;
