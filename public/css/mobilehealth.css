@@ -90,6 +90,7 @@ a {
 
 .bk {
     background-color: #0c46ab;
+    border: #0c46ab solid 1px;
 }
 
 .navbar .navbar-brand {
