@@ -174,11 +174,11 @@
                     <div class="course-container-box">
                         <div class="footer-item">
 
-                            <p>61 Grant Road, Frankton, Central Otago</p>
+                            <p>61 Grant Road, Frankton, Central&nbspOtago</p>
                             <p>PO Box 2036, Queenstown</p>
                             <p>
-                                <a href="#"><i class="fa fa-phone-square"></i> 03 111 2222</a> &nbsp;
-                                <a href="#"><i class="fa fa-phone-square"></i> 0274 423 624</a>
+                                <a href="#"><i class="fa fa-phone-square"></i>&nbsp03&nbsp111&nbsp2222</a> &nbsp;
+                                <a href="#"><i class="fa fa-phone-square"></i>&nbsp0274&nbsp423&nbsp624</a>
                             </p>
                             <p>
                                 <a href="mailto: firstaid@mobilehealth.co.nz"><i class="fa fa-envelope"></i>
@@ -211,6 +211,7 @@
             </div>
         </div>
         <!-- Footer Ends Here -->
+{{--
 
         <hr>
 
@@ -232,8 +233,8 @@
                                 <p>61 Grant Road, Frankton, Central Otago</p>
                                 <p>PO Box 2036, Queenstown</p>
                                 <p>
-                                    <a href="#"><i class="fa fa-phone-square"></i> 03 111 2222</a> &nbsp;
-                                    <a href="#"><i class="fa fa-phone-square"></i> 0274 423 624</a>
+                                    <a href="#"><i class="fa fa-phone-square"></i>&nbsp03&nbsp111&nbsp2222</a> &nbsp;
+                                    <a href="#"><i class="fa fa-phone-square"></i>&nbsp0274&nbsp423&nbsp624</a>
                                 </p>
                                 <p>
                                     <a href="mailto: firstaid@mobilehealth.co.nz"><i class="fa fa-envelope"></i>
@@ -260,6 +261,7 @@
             </div>
             <!-- Footer Ends Here -->
 
+--}}
 
 
                 <!-- Sub Footer Starts Here -->
