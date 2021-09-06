@@ -732,7 +732,26 @@ a {
     border: none;
 }
 
+.contact-page .social-icons {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
 
+.contact-page .social-icons a {
+    width: 32px;
+    height: 32px;
+    color: #fff;
+    background-color: #0c46ab;
+    text-align: center;
+    display: inline-block;
+    line-height: 33px;
+    border-radius: 50%;
+    font-size: 13px;
+    transition: all 0.5s;
+}
+.contact-page .social-icons a:hover {
+    background-color: #0c46ab;
+}
 
 
 
