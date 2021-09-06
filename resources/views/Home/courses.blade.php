@@ -52,7 +52,7 @@
                             <img src="images/course_02.jpg" alt="image of first aid course">
                             <p>TThis first aid course can be used as a refresher for those with a current
                                 FA certificate (2 years 3 months) to be sighted by our instructor prior to any
-                                training.
+                                training. 
                             </p>
 
                             <div class="secondary-button"><a href="/book">Book course</a>
