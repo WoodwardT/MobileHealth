@@ -194,7 +194,6 @@ a {
 }
 .course-item {
     border-radius: 0px;
-    /*border: 1px solid rgba(0,0,0,.17);*/
     border: 1px solid rgba(0,0,0,.17);
     padding: 20px;
     transition: all 0.5s;
