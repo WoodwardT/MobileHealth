@@ -16,7 +16,7 @@
                             <strong>Providing First Aid courses now.</strong>
                             <br>Attend a course with us to get your First Aid qualifications.</p>
 
-                        <div class="main-button">
+                        <div class="primary-button">
                             <a href="/book">Book your First Aid Course now!</a>
                         </div>
                     </div>
