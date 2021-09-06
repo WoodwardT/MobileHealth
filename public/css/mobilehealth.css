@@ -13,7 +13,7 @@ p {
 a {
     text-decoration: none!important;
     color: #4a4a4a;
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .copyright-text {
@@ -792,6 +792,10 @@ a {
     .contact-page {
         margin-top: 50px;
     }
+    .contact-page .contact-container-box {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
 
 }
 
@@ -803,6 +807,9 @@ a {
     .featured-page #filters {
         margin-top: 15px;
         text-align: left;
+    }
+    .contact-page .contact-container-box {
+        flex: 100%;
     }
 
 }
@@ -841,8 +848,10 @@ hr {
 }
 
 .contact-container-box{
-    flex: 50%;
-    margin-bottom: 30px;
+    flex: 45%;
+    margin-bottom: 80px;
+/*    margin-left: 5px;
+    margin-right: 5px;*/
 }
 
 .contact-text {

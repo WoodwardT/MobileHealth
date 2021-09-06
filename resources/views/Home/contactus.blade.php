@@ -12,22 +12,70 @@
                         <hr>
                     </div>
                     <div class="contact-text">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa cupiditate, ea fugiat in ipsa
-                            mollitia nam non quidem ratione sunt vitae voluptatum. Accusamus impedit in nulla quam sed
-                            totam
-                            velit.</p>
-                        <p>
+                        <p>Please drop us a message using the contact form to request more information. <br>
+                            Or if you wish to talk to someone please call us directly.</p>
 
-                        </p>
                     </div>
                 </div>
             </div>
             {{--<div class="course-container-box">--}}
 
-
-            {{--Message Form starts--}}
+            {{--Address details starts--}}
             <div class="container">
                 <div class="contact-container">
+            <div class="contact-container-box">
+                <div class="col-md-11">
+                    <h5>Mobile Health</h5>
+
+                    <p>61 Grant Road, Frankton, Central Otago</p>
+                    <p>PO Box 2036, Queenstown</p>
+
+                    <p>
+                        <a href="#"><i class="fa fa-phone-square"></i> 03 111 2222</a>
+                    </p>
+                    <p><a href="#"><i class="fa fa-phone-square"></i> 0274 423 624</a>
+                    </p>
+                    <p>
+                        <a href="mailto: firstaid@mobilehealth.co.nz"><i class="fa fa-envelope"></i>
+                            firstaid@mobilehealth.co.nz</a>
+                    </p>
+{{--                    <p>
+                        <a href="https://www.facebook.com/Mobile-Industrial-Health-Services-Engage-Safety-1562735880645278/">
+                            <img src="/images/FacebookLogo.png" alt="Facebook Logo" width="40px">
+                        </a>
+                        <a href="https://www.linkedin.com/company/mobilehealthqueenstown/about/">
+                            <img src="/images/LinkedinLogo.png" alt="Linkedin Logo" width="40px">
+                        </a>
+                    </p>--}}
+                    <p>
+                    <div class="social-icons">
+                        <a href="https://www.facebook.com/Mobile-Industrial-Health-Services-Engage-Safety-1562735880645278/" target="_blank">
+                            <i class="fa fa-facebook"></i></a>
+                        </a>
+                        <a href="https://www.linkedin.com/company/mobilehealthqueenstown/about/" target="_blank">
+                            <i class="fa fa-linkedin"></i></a>
+                        </a>
+                    </div>
+                    </p>
+
+                    <br><br>
+
+                    <p>Mobile Health is part of <strong>Queenstown and Central Otago Health and Safety Services</strong>
+                        and <strong>Engage Safety.</strong></p>
+                    <div>
+                        <p>
+                            <a href="https://engagesafety.co.nz/" target="_blank">
+                                <img src="/images/EngageSafetyLogo.png" alt="Engage Safety Logo"
+                                     class="footer-media" >&nbsp
+                                www.engagesafety.co.nz
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            {{--Message Form starts--}}
+
                     <div class="contact-container-box">
 
                         <div class="col-md-11">
@@ -80,40 +128,6 @@
                                     </div>
                                 </form>
                             </div>
-                        </div>
-                    </div>
-
-
-                    <div class="contact-container-box">
-                        <div class="col-md-11">
-                            {{--                    <div class="course-item">--}}
-                            <h5>Lorem ipsum dolor sit amet, consectetur</h5>
-                            <p>61 Grant Road, Frankton, Central Otago</p>
-                            <p>PO Box 2036, Queenstown</p>
-
-                            <p>
-                                <a href="#"><i class="fa fa-phone-square"></i> 03 111 2222</a>
-                            </p>
-                            <p><a href="#"><i class="fa fa-phone-square"></i> 0274 423 624</a>
-                            </p>
-                            <p>
-                                <a href="mailto: firstaid@mobilehealth.co.nz"><i class="fa fa-envelope"></i>
-                                    firstaid@mobilehealth.co.nz</a>
-                            </p>
-                            <a href="https://engagesafety.co.nz/">
-                                <img src="/images/EngageSafetyLogo.png" alt="Engage Safety Logo" width="38px">&nbsp
-                                www.engagesafety.co.nz
-                            </a>
-                            </p>
-                            <p>
-
-                                <a href="https://www.facebook.com/Mobile-Industrial-Health-Services-Engage-Safety-1562735880645278/">
-                                    <img src="/images/FacebookLogo.png" alt="Facebook Logo" width="40px">
-                                </a>
-                                <a href="https://www.linkedin.com/company/mobilehealthqueenstown/about/">
-                                    <img src="/images/LinkedinLogo.png" alt="Linkedin Logo" width="40px">
-                                </a>
-                            </p>
                         </div>
                     </div>
                 </div>

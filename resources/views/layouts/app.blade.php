@@ -55,7 +55,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"
           rel="stylesheet">
 
-    {{--    <link rel="icon" href="/images/MobileHealthTabLogo.png" type="image/MobileHealthTabLogo.png">--}}
+    {{--Browser Icon--}}
+    <link rel="icon" href="/images/MobileHealthTabLogo.png" type="image/MobileHealthTabLogo.png">
 
     <title>Mobile Health</title>
 
@@ -181,7 +182,7 @@
                                 <a href="#"><i class="fa fa-phone-square"></i>&nbsp0274&nbsp423&nbsp624</a>
                             </p>
                             <p>
-                                <a href="mailto: firstaid@mobilehealth.co.nz"><i class="fa fa-envelope"></i>
+                                <a href="mailto: firstaid@mobilehealth.co.nz" target="_blank"><i class="fa fa-envelope"></i>
                                     firstaid@mobilehealth.co.nz</a>
                             </p>
                         </div>
@@ -189,18 +190,18 @@
                     <div class="course-container-box">
                         <div>
                             <p>
-                                <a href="https://engagesafety.co.nz/">
+                                <a href="https://engagesafety.co.nz/" target="_blank">
                                     <img src="/images/EngageSafetyLogo.png" alt="Engage Safety Logo"
-                                         class="footer-media">&nbsp
+                                         class="footer-media" >&nbsp
                                     www.engagesafety.co.nz
                                 </a>
                             </p>
                         </div>
                         <div class="social-icons">
-                            <a href="https://www.facebook.com/Mobile-Industrial-Health-Services-Engage-Safety-1562735880645278/">
+                            <a href="https://www.facebook.com/Mobile-Industrial-Health-Services-Engage-Safety-1562735880645278/" target="_blank">
                                 <i class="fa fa-facebook"></i></a>
                             </a>
-                            <a href="https://www.linkedin.com/company/mobilehealthqueenstown/about/">
+                            <a href="https://www.linkedin.com/company/mobilehealthqueenstown/about/" target="_blank">
                                 <i class="fa fa-linkedin"></i></a>
                             </a>
 

@@ -117,6 +117,29 @@
             </div>
         </div>
     </div>
+
+
+    {{--Reviews starts here--}}
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-heading">
+                    <h2>Testimonials</h2>
+                    <hr>
+                    <h5>What our learners like most about the courses</h5>
+                    <p>CPR, burns, chocking, heart attack. Enjoyed all the training. <em>- Nathanial</em></p>
+                    <p>How interactive and easy going it was. <em>- Karli</em></p>
+                    <p>The delivery and content was very relevant to me. <em>- Amber</em></p>
+                    <p>Examples were fun. <em>- Angela</em></p>
+                    <p>I enjoyed the course today. I learned a lot. Actually to do CPR. <em>- Ervin</em></p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    {{--Reviews end here--}}
+
     <!-- Featured Ends Here -->
 
 @endsection
