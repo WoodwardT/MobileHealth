@@ -9,11 +9,16 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="section-heading">
-                        <h2>First Aid Courses</h2>
+                        <h2>All Available Courses</h2>
                         <hr>
-                        <p>Public course or On-site, at your workplace or club or for your whanau.</p>
-                        <p>We provide morning and afternoon tea, and a light lunch.</p>
-                        <p>Interactive activities, with realistic scenarios makes our courses fun and learning easy.</p>
+                        <ul>
+                            <li><p>NZQA accredited First Aid courses, On-site or at your workplace. For your company,
+                                    club or for the whanau.</p></li>
+                            <li><p>Interactive activities, with realistic scenarios makes our courses fun and learning
+                                    easy.</p></li>
+                            <li><p>We provide morning and afternoon tea, and a light lunch.</p></li>
+                            <li><p>For more information, read about each of our course offerings below. </p></li>
+                        </ul>
                     </div>
                 </div>
 
@@ -24,16 +29,22 @@
 
                         <div class="course-item">
                             <a href="/book">
-                                <h4>First Aid Course</h4>
+                                <h4>Essential First Aid Course</h4>
                             </a>
                             <h5>Unit Standard: 6401</h5>
                             <h6>$149.00</h6>
                             <img src="images/course_02.jpg" alt="image of first aid course">
 
-                            <p>This basic first aid course provides students with opportunities to learn
-                                first aid skills and further develop existing skills so that they can provide
-                                basic first aid treatment until more advanced help arrives at the scene.
-                            </p>
+                            <p>This one day course is ideal for first aiders in workplaces and anyone wanting to learn the basics of first aid.</p>
+                            <p>This first aid course is recommended for low-risk workplaces and is the minimum qualification requirement for a workplace first-aider (valid for 2 years)</p><br>
+                            <h5>What It Covers</h5>
+                            <ul>
+                                <li>Bleeding, shock and wound care</li>
+                                <li>Fractures, sprains, strains and dislocations</li>
+                                <li>Medical conditions- heart attack, angina, asthma, diabetes, seizures, stroke and severe allergies</li>
+                                <li>Poisoning</li>
+                                <li>Burns- thermal, chemical and electrical</li>
+                            </ul>
 
                             <div class="secondary-button">
                                 <a href="/book" class="secondary-button">Book course</a></div>
@@ -50,10 +61,13 @@
                             <h6>$149.00</h6>
 
                             <img src="images/course_02.jpg" alt="image of first aid course">
-                            <p>TThis first aid course can be used as a refresher for those with a current
-                                FA certificate (2 years 3 months) to be sighted by our instructor prior to any
-                                training. 
-                            </p>
+                            <p>Take our First Aid Refresher course to renew your Essential First Aid Level or equivalent certification.</p><br>
+                            <h5>What It Covers</h5>
+                            <ul>
+                                <li>You'll learn the latest first aid information and techniques needed to take care of yourself and others in the home or workplace</li>
+                                <li>Two hours shorter than the full First Aid Level 1 course</li>
+                                <li>Your certification will remain current for another 2 years</li>
+                            </ul>
 
                             <div class="secondary-button"><a href="/book">Book course</a>
                             </div>
@@ -71,13 +85,29 @@
                             <h6>$TBC</h6>
 
                             <img src="images/course_02.jpg" alt="image of first aid course">
-                            <p>Students who have achieved the standard in this unit can perform first aid in an
-                                emergency.
-                                This course aims to guide and motivate students to provide immediate first aid in
+                            <p>This first aid course is recommended for people who may need to manage emergency care for a period of two – twelve hours and is for students who have achieved the standard in this unit can perform first aid in an
+                                emergency.</p>
+                            <p>This course aims to guide and motivate students to provide immediate first aid in
                                 emergency situations.
                                 Throughout the 12-hour course, students receive high standards of patient care
                                 training.
-                            </p>
+                            </p><br>
+                            <h5>What It Covers</h5>
+                            <ul>
+                                <li>Response to an emergency care situation</li>
+                                <li>Ensuring safety of the first aider, group and patient is not compromised</li>
+                                <li>Minimising harmful environmental conditions</li>
+                                <li>Establishing a ‘safe’ area for group members</li>
+                                <li>Establishing communications</li>
+                                <li>Establishing and maintaining group morale and safety</li>
+                                <li>Delegation of appropriate tasks using effective communication</li>
+                                <li>Handling of fatalities according to police requirements</li>
+                                <li>Basic lifting and carrying techniques</li>
+                                <li>Factors affecting a decision to evacuate a patient and/or group</li>
+                                <li>Information required by outside help or emergency services</li>
+                                <li>Assess and manage a patient’s condition long-term in an outdoor recreation environment.</li>
+                            </ul>
+
 
                             <div class="secondary-button">
                                 <a href="/book">Book course</a>
@@ -97,14 +127,19 @@
 
                             <img src="images/course_02.jpg" alt="image of first aid course">
 
+                            <p>This course is ideal for first aiders in workplaces and anyone wanting to learn
+                                basic life support including resuscitation and management of serious bleeding.</p>
+                            <p>People who complete this course can provide basic cardiopulmonary resuscitation (CPR).</p>
+                            <p>The unit includes the emergency care phase of rapid identification or intervention to
+                                prevent breathing or circulatory stop or failure.</p>
+                            </p><br>
+                            <h5>What It Covers</h5>
+                            <ul>
+                                <li>the confidence in recognising and treating cardiac arrest, choking, and bleeding</li>
+                                <li>the basic skills to provide time-critical assistance and CPR before more experienced help arrives</li>
+                                <li>a Basic Life Support certificate valid for 2 years upon successful completion</li>
+                            </ul>
 
-                            <p>Individuals who meet the standards of this unit can provide basic cardiopulmonary
-                                resuscitation (CPR).
-                                The unit includes the emergency care phase: rapid identification or intervention to
-                                prevent breathing or circulatory stop or failure; or support the victim to relieve
-                                airway obstruction; or support the patient’s breathing and circulation through
-                                cardiopulmonary resuscitation (CPR).
-                            </p>
                             <div class="secondary-button">
                                 <a href="/book">Book course</a>
                             </div>
@@ -115,6 +150,6 @@
 
                 </div>
 
-            <!-- Courses Page Ends Here -->
+                <!-- Courses Page Ends Here -->
 
 @endsection

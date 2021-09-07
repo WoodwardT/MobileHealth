@@ -51,7 +51,7 @@
     <div class="bk">
         <div class="container">
             <nav class="mb-1 navbar navbar-expand-lg navbar-dark default-color">
-                <a class="navbar-brand nav-img" href="index.html"><img src="/images/MobileHealth1.png"
+                <a class="navbar-brand nav-img" href="/"><img src="/images/MobileHealth1.png"
                                                                        alt="Mobile Health Logo" height="70px"></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse"
                         data-target="#navbarSupportedContent-333"
