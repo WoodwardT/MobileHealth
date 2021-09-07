@@ -3,7 +3,7 @@
 
     <!-- Page Content -->
     <!-- Banner Starts Here -->
-    <div class="banner">
+    <div class="banner" title="First Aid Course Image">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -15,7 +15,6 @@
                             <br><br>
                             <strong>Providing First Aid courses now.</strong>
                             <br>Attend a course with us to get your First Aid qualifications.</p>
-
                         <div class="primary-button">
                             <a href="/book">Book your First Aid Course now!</a>
                         </div>
@@ -127,7 +126,7 @@
                     <h2>Testimonials</h2>
                     <hr>
                     <h5>What our learners like most about the courses</h5>
-                    <p>CPR, burns, chocking, heart attack. Enjoyed all the training. <em>- Nathanial</em></p>
+                    <p>CPR, burns, choking, heart attack. Enjoyed all the training. <em>- Nathanial</em></p>
                     <p>How interactive and easy going it was. <em>- Karli</em></p>
                     <p>The delivery and content was very relevant to me. <em>- Amber</em></p>
                     <p>Examples were fun. <em>- Angela</em></p>

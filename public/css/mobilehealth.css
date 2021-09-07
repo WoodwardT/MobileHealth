@@ -197,6 +197,7 @@ a {
     padding: 20px;
     transition: all 0.5s;
     margin-bottom: 10px;
+    height: 100%;
 }
 .course-item:hover {
     opacity: 0.9;
@@ -204,6 +205,8 @@ a {
 .course-item img {
     width: 100%;
     height: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .course-item h4 {
     font-size: 24px;
@@ -221,6 +224,9 @@ a {
     font-size: 15px;
     font-weight: 500;
     margin-bottom: 0px;
+}
+.course-item ul{
+    color: #4a4a4a;
 }
 .course-theme .owl-dots {
     text-align: center;
@@ -750,6 +756,7 @@ a {
     flex-wrap:wrap;
     justify-content:space-between;
     align-items: stretch;
+
 }
 
 .contact-container-box{
@@ -767,7 +774,7 @@ a {
 
     .banner {
         border-top: none;
-        margin-top: 50px;
+        margin-top: 0px;
     }
     .navbar .navbar-brand {
         width: auto;
@@ -846,6 +853,8 @@ a {
     flex-wrap:wrap;
     justify-content:space-between;
     align-items: stretch;
+    /*flex-direction: row;*/
+    /*height: 800px;*/
 }
 
 .course-container div{

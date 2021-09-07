@@ -13,11 +13,11 @@
                         <hr>
                         <ul>
                             <li><p>NZQA accredited First Aid courses, On-site or at your workplace. For your company,
-                                    club or for the whanau.</p></li>
-                            <li><p>Interactive activities, with realistic scenarios makes our courses fun and learning
-                                    easy.</p></li>
-                            <li><p>We provide morning and afternoon tea, and a light lunch.</p></li>
-                            <li><p>For more information, read about each of our course offerings below. </p></li>
+                                    club or for the whanau</p></li>
+                            <li><p>Interactive activities, with realistic scenarios make our courses fun and learning
+                                    easy</p></li>
+                            <li><p>We provide morning and afternoon tea, and a light lunch</p></li>
+                            <li><p>For more information, read about each of our course offerings below</p></li>
                         </ul>
                     </div>
                 </div>
@@ -95,7 +95,7 @@
                             <h5>What It Covers</h5>
                             <ul>
                                 <li>Response to an emergency care situation</li>
-                                <li>Ensuring safety of the first aider, group and patient is not compromised</li>
+                                <li>Ensuring that the safety of the first aider, group and patient is not compromised</li>
                                 <li>Minimising harmful environmental conditions</li>
                                 <li>Establishing a ‘safe’ area for group members</li>
                                 <li>Establishing communications</li>
@@ -105,7 +105,6 @@
                                 <li>Basic lifting and carrying techniques</li>
                                 <li>Factors affecting a decision to evacuate a patient and/or group</li>
                                 <li>Information required by outside help or emergency services</li>
-                                <li>Assess and manage a patient’s condition long-term in an outdoor recreation environment.</li>
                             </ul>
 
 
@@ -135,9 +134,9 @@
                             </p><br>
                             <h5>What It Covers</h5>
                             <ul>
-                                <li>the confidence in recognising and treating cardiac arrest, choking, and bleeding</li>
-                                <li>the basic skills to provide time-critical assistance and CPR before more experienced help arrives</li>
-                                <li>a Basic Life Support certificate valid for 2 years upon successful completion</li>
+                                <li>The confidence in recognising and treating cardiac arrest, choking, and bleeding</li>
+                                <li>The basic skills to provide time-critical assistance and CPR before more experienced help arrives</li>
+                                <li>A Basic Life Support certificate valid for 2 years upon successful completion</li>
                             </ul>
 
                             <div class="secondary-button">
