@@ -8,7 +8,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="section-heading">
-                        <h2>About Debbie and her team at Mobile Health</h2>
+                        <h2>About Debbie and the team at Mobile Health</h2>
                         <hr>
                     </div>
 
@@ -44,8 +44,13 @@
                     <div class="card-body">
                         <h5 class="card-title">Debbie Swain-Rewi</h5>
                         <h6>Director</h6>
-                        <p class="card-text">Hello, I am the director of mobile health , certified drug tester by NZQA,
-                            I am based in Queenstown, Otago, New Zealand.</p>
+                        <p class="card-text">
+                            <p>-PostGradDip Health Sciences</p>
+                            <p>-Endorsed Occupational Health and Safety</p>
+                            <p>-Certificated Independent Vaccinator</p>
+                            <p>-NZQA Qualified Urine Collector, and Workplace Drug Tester</p>
+                            <p>-Smoking Cessation Practitioner</p>
+                        </p>
                     </div>
                 </div>
 
@@ -54,29 +59,37 @@
                     <div class="card-body">
                         <h5 class="card-title">Darren Rewi</h5>
                         <h6>Director</h6>
-                        <p class="card-text">Hi, I am the director of Mobile Health , and certified health and safety
-                            practitioner</p>
+                        <div class="card-text">
+                            <p>-AppMgnt Strategic Management</p>
+                            <p>-Prosci Change Management Practitioner</p>
+                            <p>-ICAM Investigator</p>
+                            <p>-Certified Health and Safety Practitioner</p>
+                        </div>
                     </div>
                 </div>
 
                 <div class="card">
-                    <img src="images/face.jpg" alt="Mel Wright"
+                    <img src="images/MelWright.jpg" alt="Mel Wright"
                          class="card-img-top">
                     <div class="card-body">
                         <h5 class="card-title">Mel Wright</h5>
                         <h6>RN and co-ordinator</h6>
-                        <p class="card-text">Hi, I am a registered nurse, coordinating the different health and first
-                            aid courses in mobile health</p>
+                        <div class="card-text"
+                        <p>-First Aid Instructor</p>
                     </div>
                 </div>
+            </div>
 
                 <div class="card">
                     <img src="images/PamShaw.jpg" alt="Pam Shaw" class="card-img-top">
                     <div class="card-body">
                         <h5 class="card-title">Pam Shaw</h5>
                         <h6>Registered Nurse</h6>
-                        <p class="card-text">Hi, I am a registered nurse working here at mobile health for providing
-                            different courses</p>
+                        <div class="card-text">
+                            <p>-Trained in Spirometry</p>
+                            <p>-Audiometry</p>
+                            <p>-Drug Testing</p>
+                        </div>
                     </div>
                 </div>
 
@@ -85,19 +98,27 @@
                     <div class="card-body">
                         <h5 class="card-title">Amy Mead</h5>
                         <h6>Registered Nurse</h6>
-                        <p class="card-text">Hi, I am a registered nurse working here at mobile health for providing
-                            different courses</p>
+                        <div class="card-text">
+                            <p>-Occupational Health Nurse</p>
+                            <p>-Trained in drug testing</p>
+                            <p>-Audiometry</p>
+                            <p>-Spirometry</p>
+                            <p>-Certified Vaccinator</p>
+                        </div>
                     </div>
                 </div>
 
                 <div class="card">
-                    <img src="images/face.jpg" alt="Zahra Nadali"
+                    <img src="images/ZahraNadali.jpg" alt="Zahra Nadali"
                          class="card-img-top">
                     <div class="card-body">
                         <h5 class="card-title">Zahra Nadali</h5>
                         <h6>Registered Nurse</h6>
-                        <p class="card-text">Hi, I am a registered nurse working here at mobile health for providing
-                            different courses</p>
+                        <div class="card-text">
+                            <p>-Certified Vaccinator</p>
+                            <p>-Audiometry</p>
+                            <p>-Spirometry</p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -130,7 +151,7 @@
                                 <div class="about-item">
                                     <a href="https://www.odt.co.nz/regions/wanaka/%E2%80%98happy%E2%80%99-receive-covid-jabs"
                                        target="_blank">
-                                        <img src="images/driveThruVaccinations.JPG"
+                                        <img src="images/driveThruVaccinations.png"
                                              alt="image of drive thru vaccination"
                                              height="200px">
                                     </a>
@@ -149,7 +170,7 @@
                                 <div class="about-item">
                                     <a href="http://www.kaitahu.maori.nz/southern-stop-smoking-inspirational-stories/glenorchy-debbie-swain-rewi"
                                        target="_blank">
-                                        <img src="images/smokingCessation.JPG"
+                                        <img src="images/smokingCessation.png"
                                              alt="image of smoking cessation"
                                              height="200px">
                                     </a>
@@ -186,19 +207,18 @@
                                 </div>
                             </div>
                         </div>
-
-
-                        <div class="social-icons">
-                            <p>Find us on:</p>
-                            <a href="https://www.facebook.com/Mobile-Industrial-Health-Services-Engage-Safety-1562735880645278/"
-                               target="_blank">
-                                <i class="fa fa-facebook"></i></a>
-                            </a>
-                            <a href="https://www.linkedin.com/company/mobilehealthqueenstown/about/"
-                               target="_blank">
-                                <i class="fa fa-linkedin"></i></a>
-                            </a>
-                        </div>
+                        
+{{--                        <div class="social-icons">--}}
+{{--                            <p>Find us on:</p>--}}
+{{--                            <a href="https://www.facebook.com/Mobile-Industrial-Health-Services-Engage-Safety-1562735880645278/"--}}
+{{--                               target="_blank">--}}
+{{--                                <i class="fa fa-facebook"></i></a>--}}
+{{--                            </a>--}}
+{{--                            <a href="https://www.linkedin.com/company/mobilehealthqueenstown/about/"--}}
+{{--                               target="_blank">--}}
+{{--                                <i class="fa fa-linkedin"></i></a>--}}
+{{--                            </a>--}}
+{{--                        </div>--}}
                     </div>
 
                 </div>
