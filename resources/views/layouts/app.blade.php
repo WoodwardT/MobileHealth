@@ -91,6 +91,9 @@
                         <li class="nav-item">
                             <a class="nav-link" href="/bookcourse">Bookcourse</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/payment">Payment</a>
+                        </li>
                         {{--<button class="navbar-toggler" type="button" data-toggle="collapse"
                                 data-target="#navbarResponsive"
                                 aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
