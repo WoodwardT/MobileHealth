@@ -34,7 +34,10 @@ Route::get('/contactus', function () {return view('home.contactus');});
 Route::get('/play', function () {return view('home.play');});
 Route::get('/play2', function () {return view('home.play2');});
 Route::get('/play3', function () {return view('home.play3');});
+Route::get('/play4', function () {return view('home.play4');});
+Route::get('/results', function () {return view('home.results');});
 Route::get('/bookcourse', function () {return view('home.bookcourse');});
+Route::get('/payment', function () {return view('home.payment');});
 
 //Route::get('/AboutUs', 'App\Http\Controllers\ActivityController@AboutUs');
 
