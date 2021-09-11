@@ -1,26 +1,33 @@
+<div id="pre-header">
+    <span>We are running courses during Covid Alert Level 2</span>
+</div>
+
+
 @extends('layouts.app')
 @section('content')
 
     <!-- Page Content -->
     <!-- Banner Starts Here -->
-    <div class="banner" title="First Aid Course Image">
+    <div class="banner" alt="First Aid Course Image">
         <div class="container">
-            <div class="row">
-                <div class="col-md-12">
+{{--            <div class="row">--}}
+{{--                <div class="col-md-12">--}}
                     <div class="caption">
                         <h2>Mobile Health and Safety</h2>
                         <hr>
                         <p>The premier <strong>locally owned and operated</strong> provider of Workplace Health and
                             Safety Services in the Queenstown Lakes and Central Otago region.
-                            <br><br>
+                        </p>
+                        <p>
                             <strong>Providing First Aid courses now.</strong>
-                            <br>Attend a course with us to get your First Aid qualifications.</p>
+                            <br>Attend a course with us to get your First Aid qualifications.
+                        </p>
                         <div class="primary-button">
                             <a href="/book">Book your First Aid Course now!</a>
                         </div>
                     </div>
-                </div>
-            </div>
+{{--                </div>--}}
+{{--            </div>--}}
         </div>
     </div>
     <!-- Banner Ends Here -->
@@ -106,6 +113,10 @@
                                 or circulatory stop or failure; or support the victim to relieve airway obstruction; or
                                 support the
                                 patient’s breathing and circulation through cardiopulmonary resuscitation (CPR).
+                                </p>
+
+
+
                             </p>
                             <div class="secondary-button">
                                 <a href="/book">Book course</a>
@@ -138,7 +149,5 @@
     </div>
 
     {{--Reviews end here--}}
-
-    <!-- Featured Ends Here -->
 
 @endsection

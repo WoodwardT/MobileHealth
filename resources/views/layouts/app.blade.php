@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-{{--    Google fonts--}}
+    {{--    Google fonts--}}
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Courgette&display=swap" rel="stylesheet">
@@ -42,6 +42,9 @@
         };
     </script>
 
+{{--Readmore Script--}}
+
+
 </head>
 <body>
 
@@ -53,7 +56,7 @@
         <div class="container">
             <nav class="mb-1 navbar navbar-expand-lg navbar-dark default-color">
                 <a class="navbar-brand nav-img" href="/"><img src="/images/MobileHealth1.png"
-                                                                       alt="Mobile Health Logo" height="70px"></a>
+                                                              alt="Mobile Health Logo"></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse"
                         data-target="#navbarSupportedContent-333"
                         aria-controls="navbarSupportedContent-333" aria-expanded="false" aria-label="Toggle navigation">
@@ -75,6 +78,18 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/contactus">Contact Us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/play">PLAY</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/play2">PLAY2</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/play3">PLAY3</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/bookcourse">Bookcourse</a>
                         </li>
                         {{--<button class="navbar-toggler" type="button" data-toggle="collapse"
                                 data-target="#navbarResponsive"
@@ -100,7 +115,6 @@
 <!-- Footer Starts Here -->
 <footer>
 
-    <hr>
     <div class="footer">
         <div class="container">
             <div class="row">
@@ -167,7 +181,7 @@
             </div>
         </div>
     </div>
-        <!-- Sub Footer Ends Here -->
+    <!-- Sub Footer Ends Here -->
 </footer>
 
 <!-- Bootstrap core JavaScript -->
