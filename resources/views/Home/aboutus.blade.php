@@ -122,9 +122,10 @@
                     </div>
                 </div>
             </div>
-
+         </div>
 
             <!-- About Us Profiles Start Here -->
+
             <div class="about-items">
                 <div class="container">
                     <div class="row">
@@ -207,20 +208,7 @@
                                 </div>
                             </div>
                         </div>
-                        
-{{--                        <div class="social-icons">--}}
-{{--                            <p>Find us on:</p>--}}
-{{--                            <a href="https://www.facebook.com/Mobile-Industrial-Health-Services-Engage-Safety-1562735880645278/"--}}
-{{--                               target="_blank">--}}
-{{--                                <i class="fa fa-facebook"></i></a>--}}
-{{--                            </a>--}}
-{{--                            <a href="https://www.linkedin.com/company/mobilehealthqueenstown/about/"--}}
-{{--                               target="_blank">--}}
-{{--                                <i class="fa fa-linkedin"></i></a>--}}
-{{--                            </a>--}}
-{{--                        </div>--}}
                     </div>
-
                 </div>
             </div>
         </div>
@@ -233,119 +221,3 @@
 
 
 
-
-{{--OTHER SAMPLE FLEX BOX CODE
-                <div class="section-heading">
-                    <h4>Our Mobile Health Team -flex in flex</h4>
-                    <hr>
-                </div>
-
-                <div class="about-container">
-                    <div class="about-container-box about-item">  --}}{{--container-3-box--}}{{--
-                        <div class="container-1">
-                            <div class="box-1">
-                                <img src="images/DebbieSwainRewi.jpg" alt="Debbie Swain-Rewi" height="100px">
-                            </div>
-                            <div class="box-2">
-                                <h5>xDebbie Swain-Rewi</h5>
-                                <h6>Director</h6>
-                                <p>BN, RN, PostGradDip Health Sciences, Endorsed Occupational Health and Safety;
-                                    Certificated Independent Vaccinator; NZQA Qualified Urine Collector, and
-                                    Workplace Drug Tester; Smoking Cessation Practitioner</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="about-container-box about-item">
-                        <div class="container-1">
-                            <div class="box-1">
-                                <img src="/images/DarrenRewi.jpg" alt="Darren Rewi" height="100px">
-                            </div>
-                            <div class="box-2">
-
-
-                                <h4>xDarren Rewi</h4>
-                                <h6>Director</h6>
-                                <p>B,AppMgnt Strategic Management; Prosci Change Management Practitioner; ICAM
-                                    Investigator;
-                                    Certified Health and Safety Practitioner</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>--}}
-
-{{--
-                <!-- About Us Profiles Start Here -->
-                <div class="about-items">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="section-heading">
-                                    <h4>Our Mobile Health Team - original</h4>
-                                    <hr>
-                                </div>
-                            </div>
-
-                            <div class="about-grid-box">
-                                <div class="about-item">
-                                    <div class="about-container"></div>
-                                    <img src="images/DebbieSwainRewi.jpg" alt="Debbie Swain-Rewi"
-                                         height="100px" width="100px">
-                                    <h4>Debbie Swain-Rewi</h4>
-                                    <h6>Director</h6>
-                                    <br>
-                                    <p>BN, RN, PostGradDip Health Sciences, Endorsed Occupational Health and
-                                        Safety;
-                                        Certificated Independent Vaccinator; NZQA Qualified Urine Collector, and
-                                        Workplace Drug Tester; Smoking Cessation Practitioner</p>
-                                </div>
-                                <div class="about-item">
-                                    <img src="images/DarrenRewi.jpg" alt="Darren Rewi" height="200px">
-                                    <h4>Darren Rewi</h4>
-                                    <h6>Director</h6>
-                                    <br>
-                                    <p>B,AppMgnt Strategic Management; Prosci Change Management Practitioner;
-                                        ICAM
-                                        Investigator;
-                                        Certified Health and Safety Practitioner</p>
-                                </div>
-
-
-                                <div class="about-item">
-                                    <img src="images/face.png" alt="Mel Wright" height="200px">
-                                    <h4>Mel Wright</h4>
-                                    <h6>Registered Nurse and First Aid Co-ordinator</h6>
-                                    <br>
-                                    <p>Mel co-ordinates the First Aid courses, and presents in the courses in
-                                        both
-                                        English
-                                        and Filipino.</p>
-                                </div>
-
-                                <div class="about-item">
-                                    <img src="images/PamShaw.jpg" alt="Pam Shaw" height="200px">
-                                    <h4>Pam Shaw</h4>
-                                    <h6>Registered Nurse</h6>
-                                    <br>
-                                    <p></p>
-                                </div>
-
-                                <div class="about-item">
-                                    <img src="images/AmyMead.jpg" alt="Amy Mead" height="200px">
-                                    <h4>Amy Mead</h4>
-                                    <h6>Registered Nurse</h6>
-                                    <br>
-                                    <p></p>
-                                </div>
-
-                                <div class="about-item">
-                                    <img src="images/face.png" alt="Zahra Nadali" height="200px">
-                                    <h4>Zahra Nadali</h4>
-                                    <h6>Registered Nurse</h6>
-                                    <br>
-                                    <p></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>--}}
