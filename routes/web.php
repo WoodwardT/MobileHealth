@@ -33,7 +33,7 @@ Route::get('/contactus', function () {return view('home.contactus');});
 
 Route::get('/play', function () {return view('home.play');});
 Route::get('/lab08', function () {return view('home.lab08');});
-Route::get('/lab12a', function () {return view('home.lab12a');});
+Route::get('/lab12', function () {return view('home.lab12');});
 Route::get('/results', function () {return view('home.results');});
 Route::get('/bookcourse', function () {return view('home.bookcourse');});
 Route::get('/payment', function () {return view('home.payment');});

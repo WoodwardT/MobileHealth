@@ -2,9 +2,9 @@
 
 
 $servername = 'localhost';
-$username = 'sam';
-$password = 'sam123';
-$dbname = 'usda';
+$username = 'foods';
+$password = '';
+$dbname = 'foods';
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
@@ -15,11 +15,11 @@ if(mysqli_connect_errno()) {
 $id = $_GET['food'];
 $quantity = $_GET['quantity'];
 
-$sql = 'SELECT description, protein, carbohydrate, cholesterol  FROM foods where id =?';
+$sql = 'SELECT description FROM foods where id =?';
 $stmt = $conn->prepare($sql);
 $stmt->bind_param("i", $id);
 $stmt->execute();
-$stmt->bind_result($description, $protein, $carbohydrate, $cholesterol);
+$stmt->bind_result($description);
 $stmt->fetch();
 
 ?>
@@ -43,15 +43,12 @@ $stmt->fetch();
 <table id="results">
     <tr>
         <th>Food</th>
-        <th>Protein</th>
-        <th>Carbohydrate</th>
-        <th>Cholesterol</th>
+        <th>Quantity</th>
+
     </tr>
     <tr>
         <td><?php echo $description; ?></td>
-        <td><?php echo $quantity * $protein; ?></td>
-        <td><?php echo $quantity * $carbohydrate; ?></td>
-        <td><?php echo $quantity * $cholesterol; ?></td>
+        <td><?php echo $quantity ?></td>
     </tr>
 </table>
 
