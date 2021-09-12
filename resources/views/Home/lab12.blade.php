@@ -1,3 +1,7 @@
+@extends('layouts.app')
+@section('content')
+
+
 <?php
 
 /*include 'dbconnect.php';*/
@@ -81,3 +85,4 @@ if (isset($_GET['submit'])) {
 $conn->close();
 ?>
 
+@endsection

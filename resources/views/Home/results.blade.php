@@ -1,6 +1,5 @@
 <?php
 
-
 $servername = 'localhost:8889';
 $username = 'foods';
 $password = '';
