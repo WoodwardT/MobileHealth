@@ -83,13 +83,10 @@
                             <a class="nav-link" href="/play">PLAY</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/play2">PLAY2</a>
+                            <a class="nav-link" href="/lab08">Lab08</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/play3">PLAY3</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="/play4">PLAY4</a>
+                            <a class="nav-link" href="/lab12a">Lab12</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/bookcourse">Bookcourse</a>

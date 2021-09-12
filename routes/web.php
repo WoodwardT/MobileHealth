@@ -32,9 +32,8 @@ Route::get('/aboutus', function () {return view('home.aboutus');});
 Route::get('/contactus', function () {return view('home.contactus');});
 
 Route::get('/play', function () {return view('home.play');});
-Route::get('/play2', function () {return view('home.play2');});
-Route::get('/play3', function () {return view('home.play3');});
-Route::get('/play4', function () {return view('home.play4');});
+Route::get('/lab08', function () {return view('home.lab08');});
+Route::get('/lab12a', function () {return view('home.lab12a');});
 Route::get('/results', function () {return view('home.results');});
 Route::get('/bookcourse', function () {return view('home.bookcourse');});
 Route::get('/payment', function () {return view('home.payment');});

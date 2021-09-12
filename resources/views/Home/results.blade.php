@@ -1,10 +1,21 @@
 <?php
 
-include 'dbconnect.php';
+
+$servername = 'localhost';
+$username = 'sam';
+$password = 'sam123';
+$dbname = 'usda';
+
+$conn = new mysqli($servername, $username, $password, $dbname);
+
+if(mysqli_connect_errno()) {
+    die("Failed to connect to database.");
+}
+
 $id = $_GET['food'];
 $quantity = $_GET['quantity'];
 
-$sql = 'SELECT description, protein, carbohydrate, cholesterol FROM foods where id =?';
+$sql = 'SELECT description, protein, carbohydrate, cholesterol  FROM foods where id =?';
 $stmt = $conn->prepare($sql);
 $stmt->bind_param("i", $id);
 $stmt->execute();
@@ -21,7 +32,7 @@ $stmt->fetch();
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Lab 12 Tuesday</title>
-    <link rel="stylesheet" href="style.css">
+    {{--<link rel="stylesheet" href="style.css">--}}
 </head>
 
 <body>
@@ -45,7 +56,7 @@ $stmt->fetch();
 </table>
 
 <br><br>
-<a href="index.php" ><button class="submit">Back</button></a>
+<a href="index.blade.php" ><button class="submit">Back</button></a>
 
 </body>
 </html>
