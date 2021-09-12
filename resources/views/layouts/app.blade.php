@@ -128,7 +128,7 @@
                     <div class="course-container-box">
                         <div class="footer-item">
                             <div class="flex-column">
-                                <a href="/"> <img src="/images/MobileHealth1.png" alt="Company Logo" class="logo"></a>
+                                <a href="/"> <img src="/images/MobileHealth1.png" alt="Company Logo" id="logoimage" class="logo"></a>
                             </div>
                         </div>
                     </div>
