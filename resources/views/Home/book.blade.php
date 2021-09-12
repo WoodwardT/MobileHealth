@@ -1,18 +1,18 @@
-{{--Gender script--}}
-<script type="text/javascript">
-    function showfield(name){
-        if(name == 'Other') {
-            document.getElementById('div1').innerHTML = 'Other: <input type="text" name="other" class="form-control"/>';
-        }
-        else {
-            document.getElementById('div1').innerHTML='';
-        }
-    }
-</script>
-
 
 @extends('layouts.app')
 @section('content')
+
+    {{--Gender script--}}
+    <script type="text/javascript">
+        function showfield(name){
+            if(name == 'Other') {
+                document.getElementById('div1').innerHTML = 'Other: <input type="text" name="other" class="form-control"/>';
+            }
+            else {
+                document.getElementById('div1').innerHTML='';
+            }
+        }
+    </script>
 
     <!-- Page Content -->
     <div class="about-page">

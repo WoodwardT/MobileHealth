@@ -42,7 +42,7 @@
         };
     </script>
 
-{{--Readmore Script--}}
+    {{--Readmore Script--}}
 
 
 </head>
@@ -55,7 +55,7 @@
     <div class="bk">
         <div class="container">
             <nav class="mb-1 navbar navbar-expand-lg navbar-dark default-color">
-                <a class="navbar-brand nav-img" href="/"><img src="/images/MobileHealth1.png"
+                <a class="navbar-brand nav-img" id="logoimage" href="/"><img src="/images/MobileHealth1.png"
                                                               alt="Mobile Health Logo"></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse"
                         data-target="#navbarSupportedContent-333"
@@ -87,6 +87,9 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/play3">PLAY3</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/play4">PLAY4</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/bookcourse">Bookcourse</a>
@@ -158,10 +161,10 @@
                         <div class="social-icons">
                             <a href="https://www.facebook.com/Mobile-Industrial-Health-Services-Engage-Safety-1562735880645278/"
                                target="_blank">
-                                <i class="fa fa-facebook"></i></a>
+                                <i class="fa fa-facebook"></i>
                             </a>
                             <a href="https://www.linkedin.com/company/mobilehealthqueenstown/about/" target="_blank">
-                                <i class="fa fa-linkedin"></i></a>
+                                <i class="fa fa-linkedin"></i>
                             </a>
                         </div>
                     </div>
@@ -199,16 +202,16 @@
 <script src="js/flex-slider.js"></script>
 
 
-<script language="text/Javascript">
-    cleared[0] = cleared[1] = cleared[2] = 0; //set a cleared flag for each field
-    function clearField(t) {                   //declaring the array outside of the
-        if (!cleared[t.id]) {                      // function makes it static and global
-            cleared[t.id] = 1;  // you could use true and false, but that's more typing
-            t.value = '';         // with more chance of typos
-            t.style.color = '#fff';
-        }
-    }
-</script>
+{{--<script language="text/Javascript">--}}
+{{--    cleared[0] = cleared[1] = cleared[2] = 0; //set a cleared flag for each field--}}
+{{--    function clearField(t) {                   //declaring the array outside of the--}}
+{{--        if (!cleared[t.id]) {                      // function makes it static and global--}}
+{{--            cleared[t.id] = 1;  // you could use true and false, but that's more typing--}}
+{{--            t.value = '';         // with more chance of typos--}}
+{{--            t.style.color = '#fff';--}}
+{{--        }--}}
+{{--    }--}}
+{{--</script>--}}
 
 </body>
 

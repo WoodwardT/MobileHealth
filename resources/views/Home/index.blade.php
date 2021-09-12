@@ -2,7 +2,6 @@
     <span>We are running courses during Covid Alert Level 2</span>
 </div>
 
-
 @extends('layouts.app')
 @section('content')
 
@@ -10,24 +9,20 @@
     <!-- Banner Starts Here -->
     <div class="banner" alt="First Aid Course Image">
         <div class="container">
-{{--            <div class="row">--}}
-{{--                <div class="col-md-12">--}}
-                    <div class="caption">
-                        <h2>Mobile Health and Safety</h2>
-                        <hr>
-                        <p>The premier <strong>locally owned and operated</strong> provider of Workplace Health and
-                            Safety Services in the Queenstown Lakes and Central Otago region.
-                        </p>
-                        <p>
-                            <strong>Providing First Aid courses now.</strong>
-                            <br>Attend a course with us to get your First Aid qualifications.
-                        </p>
-                        <div class="primary-button">
-                            <a href="/book">Book your First Aid Course now!</a>
-                        </div>
-                    </div>
-{{--                </div>--}}
-{{--            </div>--}}
+            <div class="caption">
+                <h2>Mobile Health and Safety</h2>
+                <hr>
+                <p>The premier <strong>locally owned and operated</strong> provider of Workplace Health and
+                    Safety Services in the Queenstown Lakes and Central Otago region.
+                </p>
+                <p>
+                    <strong>Providing First Aid courses now.</strong>
+                    <br>Attend a course with us to get your First Aid qualifications.
+                </p>
+                <div class="primary-button">
+                    <a href="/book">Book your First Aid Course now!</a>
+                </div>
+            </div>
         </div>
     </div>
     <!-- Banner Ends Here -->
@@ -47,9 +42,9 @@
                     <div class="course-container-box">
                         <div class="course-item">
                             <a href="/courses#1">
-                            <img src="images/course_02.jpg" alt="Course 1">
-                            <h4>First Aid Course</h4>
-                            <h6>$155 inc GST</h6>
+                                <img src="images/course_02.jpg" alt="Course 1">
+                                <h4>First Aid Course</h4>
+                                <h6>$155 inc GST</h6>
                             </a>
                             <br>
                             <p>This basic first aid course provides students with opportunities to learn
@@ -64,9 +59,9 @@
                     <div class="course-container-box">
                         <div class="course-item">
                             <a href="/courses#2">
-                            <img src="images/course_04.jpg" alt="Course 2">
-                            <h4>First Aid Refresher</h4>
-                            <h6>$129 inc GST</h6>
+                                <img src="images/course_04.jpg" alt="Course 2">
+                                <h4>First Aid Refresher</h4>
+                                <h6>$129 inc GST</h6>
                             </a>
                             <br>
                             <p>This first aid course can be used as a refresher for those with a current
@@ -81,9 +76,9 @@
                     <div class="course-container-box">
                         <div class="course-item">
                             <a href="/courses#3">
-                            <img src="images/course_02.jpg" alt="Course 3">
-                            <h4>Managing Emergency Situation</h4>
-                            <h6>$ TBC</h6>
+                                <img src="images/course_02.jpg" alt="Course 3">
+                                <h4>Managing Emergency Situation</h4>
+                                <h6>$ TBC</h6>
                             </a>
                             <br>
                             <p>Students who have achieved the standard in this unit can perform first aid in an
@@ -101,9 +96,9 @@
                     <div class="course-container-box">
                         <div class="course-item">
                             <a href="/courses#4">
-                            <img src="images/course_04.jpg" alt="Course 4">
-                            <h4>Provide Life Support</h4>
-                            <h6>$ TBC</h6>
+                                <img src="images/course_04.jpg" alt="Course 4">
+                                <h4>Provide Life Support</h4>
+                                <h6>$ TBC</h6>
                             </a>
                             <br>
                             <p>Individuals who meet the standards of this unit can provide basic cardiopulmonary
@@ -113,10 +108,6 @@
                                 or circulatory stop or failure; or support the victim to relieve airway obstruction; or
                                 support the
                                 patient’s breathing and circulation through cardiopulmonary resuscitation (CPR).
-                                </p>
-
-
-
                             </p>
                             <div class="secondary-button">
                                 <a href="/book">Book course</a>
@@ -147,7 +138,6 @@
             </div>
         </div>
     </div>
-
     {{--Reviews end here--}}
 
 @endsection

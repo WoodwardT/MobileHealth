@@ -2,7 +2,7 @@
 
 /*include 'dbconnect.php';*/
 $servername = 'localhost';
-$username = 'root';
+$username = 'foods';
 $password = '';
 $dbname = 'foods';
 

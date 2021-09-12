@@ -115,6 +115,14 @@ a {
     margin-bottom: 0;
 }
 
+/*Logo will expand on hoover*/
+#logoimage {
+    transition: transform .3s;
+}
+#logoimage:hover {
+    transform: scale(1.03); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
 /*.bk {
     background-color: #000;
     border: #000 solid 1px;
