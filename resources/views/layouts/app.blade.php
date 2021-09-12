@@ -86,7 +86,7 @@
                             <a class="nav-link" href="/lab08">Lab08</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/lab12a">Lab12</a>
+                            <a class="nav-link" href="/lab12">Lab12</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/bookcourse">Bookcourse</a>
