@@ -1,6 +1,6 @@
 <?php
-
-$servername = 'localhost';
+$servername = 'localhost:8889';
+//!!!! MAKE SURE THAT :8889 IS ADDED HERE FOR MAMP TO KNOW WHICH PORT TO USE. IT COMES STANDART AS 3306 FOR WINDOWS
 $username = 'mobilehealth';
 $password = '';
 $dbname = 'mobilehealth';

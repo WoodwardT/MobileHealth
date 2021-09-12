@@ -1,15 +1,18 @@
 <?php
 
 
-$servername = 'localhost';
+$servername = 'localhost:8889';
 $username = 'foods';
 $password = '';
 $dbname = 'foods';
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
-if(mysqli_connect_errno()) {
+if (mysqli_connect_errno()) {
     die("Failed to connect to database.");
+}
+else {
+    echo ("sucessfully commit");
 }
 
 $id = $_GET['food'];

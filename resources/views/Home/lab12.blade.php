@@ -1,7 +1,8 @@
 <?php
 
 /*include 'dbconnect.php';*/
-$servername = 'localhost';
+$servername = 'localhost:8889';
+//!!!! MAKE SURE THAT :8889 IS ADDED HERE FOR MAMP TO KNOW WHICH PORT TO USE. IT COMES STANDART AS 3306 FOR WINDOWS
 $username = 'foods';
 $password = '';
 $dbname = 'foods';
@@ -29,7 +30,7 @@ if (isset($_GET['submit'])) {
     } elseif (!is_numeric($_GET['quantity'])) {
         $errNan = "This must be a number";
     } else {
-        header("Location: results.blade.php?food={$_GET['food']}&quantity={$_GET['quantity']}");
+        header("Location: results.php?food={$_GET['food']}&quantity={$_GET['quantity']}");
     }
 }
 
@@ -51,7 +52,7 @@ if (isset($_GET['submit'])) {
 
 <fieldset>
     <legend>Food selector</legend>
-    <form action="results.blade.php" method="get">
+    <form action="/results" method="get">
         <label for="food">Food:</label>
         <br>
         <select name="food" id="food" class="field">

@@ -75,7 +75,7 @@
 
                                                 <div class="col-md-4">
                                                     <label for="phone">Mobile Phone</label>
-                                                    <input class="form-control" type="number" name="phone"
+                                                    <input class="form-control" type="text" name="phone"
                                                            placeholder="Phone">
                                                 </div>
                                                 <div class="col-md-12">
