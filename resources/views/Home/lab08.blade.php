@@ -1,3 +1,20 @@
+<?php
+
+$servername = 'localhost';
+$username = 'mobilehealth';
+$password = '';
+$dbname = 'mobilehealth';
+
+$conn = new mysqli($servername, $username, $password, $dbname);
+
+if(mysqli_connect_errno()) {
+    die("Failed to connect to database.");
+} else
+    {
+        echo ("connected successfully");
+    }
+?>
+
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 
@@ -92,13 +109,13 @@
                     die("Failed to connect to database");
                 }
 
-//                $sqlcreate = "CREATE TABLE lab8form (
-//                    id INT AUTO_INCREMENT PRIMARY KEY,
-//                    name VARCHAR(50) NOT NULL,
-//                    email VARCHAR(255),
-//                    url VARCHAR(255),
-//                    comment VARCHAR(255)
-//                    );";
+               $sqlcreate = "CREATE TABLE lab8form (
+                    id INT AUTO_INCREMENT PRIMARY KEY,
+                    name VARCHAR(50) NOT NULL,
+                    email VARCHAR(255),
+                    url VARCHAR(255),
+                    comment VARCHAR(255)
+                    );";
 
                 if ($conn->query($sqlcreate) !== TRUE) {
                     echo "Error creating table: " . $conn->error, "<br>";
